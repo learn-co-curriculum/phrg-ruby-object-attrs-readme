@@ -180,3 +180,4 @@ In the following lab, you'll be defining your own class and setter and getter me
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-object-attrs-readme'>Object Attributes Readme</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-object-attrs-readme'>Object Attributes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Object Attributes and Methods: A Deeper Dive</p>
